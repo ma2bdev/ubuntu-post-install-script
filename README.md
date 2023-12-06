@@ -35,7 +35,8 @@ This Bash script automates the setup of essential applications on a Linux (Ubunt
 
 ## Contribuciones
 
-Si deseas contribuir a este proyecto, ¡siéntete libre de hacerlo! Abre un problema o envía una solicitud de extracción.
+SP: Si deseas contribuir a este proyecto, ¡siéntete libre de hacerlo! Abre un problema o envía una solicitud de extracción.
+EN: If you wish to contribute to this project, please feel free to do so! Abre a problem or request a request for extraction.
 
 ## Licencia
 
