@@ -2,15 +2,17 @@
 
 This Bash script is designed to automate the installation and configuration of essential applications and system settings on a Linux (Ubuntu) system. The script is intended to be run as a root user.
 
+**Note:** Review the script content before execution, and only use it on compatible systems. Use at your own risk.
+
 ## Prerequisites
 
 Ensure that you are running the script as the root user:
 
-- Ubuntu 20.04 LTS o higher.
-
 ```bash
 sudo ./install.sh
 ```
+
+- Ubuntu 20.04 LTS o higher.
 
 ## Script Overview
 
@@ -27,6 +29,27 @@ This Bash script automates the setup of essential applications on a Linux (Ubunt
 - ZSH shell setup
 - Other essential programs: Gedit, Audacity, Remmina, Gimp, VLC, and more.
 
+# How to Use the Script
+
+Follow these steps to use the Linux Configuration and Application Installation Script:
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/miguelalonso2/ubuntu-post-install-script.git
+   ```
+
+2. **Navigate to the Script Directory:**
+
+   ```bash
+   cd script-directory
+   ```
+
+3. **Run the Script with sudo:**
+   ```bash
+   sudo ./install.sh
+   ```
+
 ## Notes
 
 - Make sure to review and customize the additional configuration commands for Nemo, font installation, Firefox, Brave Browser, and Microsoft Edge as needed.
@@ -41,7 +64,3 @@ EN: If you wish to contribute to this project, please feel free to do so! Abre a
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
-
-```
-
-```
