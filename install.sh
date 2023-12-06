@@ -89,7 +89,7 @@ nala install microsoft-edge-stable -y
 nala install zsh -y
 
 # Installing Other Essential Programs 
-nala install audacity blueman aptitude blender bpytop calibre fonts-noto-color-emoji cheese chromium-browser conky-all dconf-editor filezilla flameshot g++ gedit gimp gparted gnome-text-editor kdenlive mainline mpv mtools notepadqq okular obs-studio rclone remmina shotwell stacer vlc -y
+nala install audacity blueman aptitude bpytop calibre fonts-noto-color-emoji cheese conky-all dconf-editor filezilla flameshot gedit gimp gparted gnome-text-editor mpv mtools notepadqq rclone remmina shotwell stacer vlc -y
 
 
 
